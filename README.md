@@ -1,1 +1,3 @@
-# myfirstprogram
+fun main() {
+    println("Happy Birthday!")
+}
